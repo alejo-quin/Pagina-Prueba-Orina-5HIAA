@@ -38,4 +38,4 @@ Para realizar una ejecucion optima del proyecto se debe seguir los siguientes pa
   
 5. Ejecurtar el comando "npm run dev" para ejecutar el proyecto en: localhost:3000
 
-NOTA: Si el proyecto ejecutado presenta problemas en alguna pagina verificar la version de las dependencias instaladas, reitirse al archivo json de este repositorio para verificar las dependencias y su version 
+NOTA: Si el proyecto ejecutado presenta problemas en alguna pagina, verificar la version de las dependencias instaladas, reitirse al archivo json de este repositorio para verificar las dependencias y su version 
